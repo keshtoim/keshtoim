@@ -5,5 +5,3 @@
 
 ### 🛠️ Tech Stack & Skills
 *   **Languages:** Python, C#
-
-Feel free to check out my repositories to see my progress!
